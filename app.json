@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00fff0",
+    "navigationBarTitleText": "漳浦马口恒景园艺场",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  }
+}
